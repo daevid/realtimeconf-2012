@@ -1,0 +1,5 @@
+/*
+
+    delete all your config files with seaport
+
+*/
